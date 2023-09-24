@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lesson2_fractal_llm"
+  site-url: "https://trangdoan982.github.io/lesson2_fractal_llm"
+  description: "this is a notebook for lesson 2 of Fractal U's LLM course"
+  repo-branch: main
+  repo-url: "https://github.com/trangdoan982/lesson2_fractal_llm"
